@@ -7,9 +7,9 @@ Have sworn more for a wizard with them!
 This is the sweet like eyes we sent in the sea,
 
 3. Model Architecture Exploration
-lowest validation loss = 
+lowest validation loss = 0.7969
 layers = 7
-heads = 7
+heads = 3
 
 4. Training BabyGPT for Code Generation
 Number of token = 111,548
@@ -77,14 +77,9 @@ loss at iteration 5000 = 0.8487
 loss at iteration 5000 = 0.7969
 
 3. number of head = 5
-loss at iteration 5000 = 
+loss at iteration 5000 = 0 / error
 
 4. number of head = 7
-loss at iteration 5000 = 
+loss at iteration 5000 = 0 / error
 
-lowest validation loss = 0.7969  head = 3
-
-<!-- head = 4 -->
-lowest validation loss = 0.7945
-loss at iteration 5000 = 0.8152
 
